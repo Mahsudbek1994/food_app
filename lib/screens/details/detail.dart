@@ -43,7 +43,7 @@ class DetailPage extends StatelessWidget {
               color: Colors.black,
               size: 30,),
               Container(
-                padding: EdgeInsets.all(15),
+                padding: EdgeInsets.all(12),
                 decoration: BoxDecoration(
                   color: Colors.white,
                   shape: BoxShape.circle,
